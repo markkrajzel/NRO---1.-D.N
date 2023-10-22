@@ -36,6 +36,10 @@ hold off;
 
 axis equal;
 
+title('Prikaz random točk na območju kroga')
+legend('točke u krogu', 'točke ne notr u krogu', 'krožnca')
+xlabel 'x'
+ylabel 'y'
 
 function [priblizek, napaka] = area_pi(tocke_v_kr, tocke_v_kv)
     % Število točk znotraj kroga
