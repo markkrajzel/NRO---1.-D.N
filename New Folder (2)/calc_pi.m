@@ -36,8 +36,8 @@ hold off;
 
 axis equal;
 
-title('Prikaz random točk na območju kroga')
-legend('točke u krogu', 'točke ne notr u krogu', 'krožnca')
+title('Prikaz naključnih točk za izračun')
+legend('točke v krogu', 'točke izven kroga', 'krožnca')
 xlabel 'x'
 ylabel 'y'
 
