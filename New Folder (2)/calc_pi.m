@@ -37,7 +37,7 @@ hold off;
 axis equal;
 
 title('Prikaz naključnih točk za izračun')
-legend('točke v krogu', 'točke izven kroga', 'krožnca')
+legend('točke izevn kroga', 'točke v krogu', 'krožnca')
 xlabel 'x'
 ylabel 'y'
 
