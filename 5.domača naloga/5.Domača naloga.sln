@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.Domača naloga", "5.Domača naloga.vcxproj", "{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Debug|x64.ActiveCfg = Debug|x64
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Debug|x64.Build.0 = Debug|x64
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Debug|x86.Build.0 = Debug|Win32
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Release|x64.ActiveCfg = Release|x64
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Release|x64.Build.0 = Release|x64
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Release|x86.ActiveCfg = Release|Win32
+		{BB64044E-93F4-48CC-92CA-5BAF4705EB1D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0BADA4E-1F65-4B1F-9788-9444043ED03A}
+	EndGlobalSection
+EndGlobal
